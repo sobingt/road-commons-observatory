@@ -1,0 +1,239 @@
+{
+  "observations": [
+    {
+      "id": "obs_pune_0001",
+      "type": "risk",
+      "lat": 18.52043,
+      "lng": 73.856744,
+      "timestamp": 1767421200000,
+      "status": "under_review",
+      "description": "Frequent pedestrian–vehicle conflict observed near signalized junction during evening peak hours",
+      "reviewed_at": 1767517600000,
+      "response_time": 6,
+      "media": {
+        "type": "video",
+        "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "metadataStripped": true
+      },
+      "hasMultipleMedia": true
+    },
+    {
+      "id": "obs_pune_0002",
+      "type": "infrastructure",
+      "lat": 18.516726,
+      "lng": 73.856255,
+      "timestamp": 1767304800000,
+      "status": "resolved",
+      "description": "Faded lane markings contributing to erratic vehicle positioning near bus stop",
+      "reviewed_at": 1767391200000,
+      "response_time": 4,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=400",
+        "metadataStripped": true
+      },
+      "hasMultipleMedia": false
+    },
+    {
+      "id": "obs_pune_0003",
+      "type": "violation",
+      "lat": 18.531403,
+      "lng": 73.84462,
+      "timestamp": 1767218400000,
+      "status": "acknowledged",
+      "description": "Repeated wrong-side driving observed on service road during morning peak",
+      "reviewed_at": 1767312000000,
+      "response_time": 5,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?w=400",
+        "metadataStripped": true
+      },
+      "hasMultipleMedia": true
+    },
+    {
+      "id": "obs_pune_0004",
+      "type": "risk",
+      "lat": 18.507352,
+      "lng": 73.807654,
+      "timestamp": 1767132000000,
+      "status": "dismissed",
+      "description": "Isolated speeding behavior reported late night without corroborating pattern",
+      "reviewed_at": 1767218400000,
+      "response_time": 2,
+      "media": null,
+      "hasMultipleMedia": false
+    },
+    {
+      "id": "obs_pune_0005",
+      "type": "infrastructure",
+      "lat": 18.559018,
+      "lng": 73.789017,
+      "timestamp": 1767045600000,
+      "status": "pending",
+      "description": "Damaged road surface causing abrupt braking and lane weaving near flyover exit",
+      "reviewed_at": null,
+      "response_time": null,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400",
+        "metadataStripped": true
+      },
+      "hasMultipleMedia": true
+    },
+    {
+      "id": "obs_pune_0006",
+      "type": "risk",
+      "lat": 18.541349,
+      "lng": 73.804512,
+      "timestamp": 1766959200000,
+      "status": "resolved",
+      "description": "Recurring near-miss incidents linked to unsignalized right turn at arterial road",
+      "reviewed_at": 1767045600000,
+      "response_time": 7,
+      "media": {
+        "type": "video",
+        "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "metadataStripped": true
+      },
+      "hasMultipleMedia": true
+    },
+    {
+      "id": "obs_pune_0007",
+      "type": "violation",
+      "lat": 18.496204,
+      "lng": 73.863605,
+      "timestamp": 1766872800000,
+      "status": "under_review",
+      "description": "Consistent signal jumping observed during late evening low-traffic periods",
+      "reviewed_at": 1766959200000,
+      "response_time": 6,
+      "media": null,
+      "hasMultipleMedia": true
+    },
+    {
+      "id": "obs_pune_0008",
+      "type": "infrastructure",
+      "lat": 18.522879,
+      "lng": 73.847944,
+      "timestamp": 1766786400000,
+      "status": "acknowledged",
+      "description": "Obstructed pedestrian crossing due to informal parking near commercial frontage",
+      "reviewed_at": 1766872800000,
+      "response_time": 5,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=400",
+        "metadataStripped": true
+      },
+      "hasMultipleMedia": false
+    },
+    {
+      "id": "obs_pune_0009",
+      "type": "risk",
+      "lat": 18.573945,
+      "lng": 73.776321,
+      "timestamp": 1766700000000,
+      "status": "dismissed",
+      "description": "Single report of abrupt lane change without supporting pattern evidence",
+      "reviewed_at": 1766786400000,
+      "response_time": 1,
+      "media": null,
+      "hasMultipleMedia": false
+    },
+    {
+      "id": "obs_pune_0010",
+      "type": "violation",
+      "lat": 18.520115,
+      "lng": 73.78099,
+      "timestamp": 1766613600000,
+      "status": "resolved",
+      "description": "Chronic footpath riding by two-wheelers observed during congestion hours",
+      "reviewed_at": 1766700000000,
+      "response_time": 8,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=400",
+        "metadataStripped": true
+      },
+      "hasMultipleMedia": true
+    },
+    {
+      "id": "obs_pune_0011",
+      "type": "infrastructure",
+      "lat": 18.56421,
+      "lng": 73.80712,
+      "timestamp": 1766527200000,
+      "status": "resolved",
+      "description": "Missing directional signage leading to last-moment lane changes near junction",
+      "reviewed_at": 1766613600000,
+      "response_time": 6,
+      "media": null,
+      "hasMultipleMedia": false
+    },
+    {
+      "id": "obs_pune_0012",
+      "type": "risk",
+      "lat": 18.508912,
+      "lng": 73.925711,
+      "timestamp": 1766440800000,
+      "status": "pending",
+      "description": "High-speed vehicle movement reported on residential collector road",
+      "reviewed_at": null,
+      "response_time": null,
+      "media": {
+        "type": "video",
+        "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "metadataStripped": true
+      },
+      "hasMultipleMedia": false
+    },
+    {
+      "id": "obs_pune_0013",
+      "type": "violation",
+      "lat": 18.536208,
+      "lng": 73.893974,
+      "timestamp": 1766354400000,
+      "status": "acknowledged",
+      "description": "Frequent illegal U-turns observed near metro construction barricades",
+      "reviewed_at": 1766440800000,
+      "response_time": 4,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?w=400",
+        "metadataStripped": true
+      },
+      "hasMultipleMedia": true
+    },
+    {
+      "id": "obs_pune_0014",
+      "type": "infrastructure",
+      "lat": 18.579321,
+      "lng": 73.742181,
+      "timestamp": 1766268000000,
+      "status": "dismissed",
+      "description": "Reported drainage issue found non-impactful to traffic flow",
+      "reviewed_at": 1766354400000,
+      "response_time": 3,
+      "media": null,
+      "hasMultipleMedia": false
+    },
+    {
+      "id": "obs_pune_0015",
+      "type": "risk",
+      "lat": 18.552198,
+      "lng": 73.879621,
+      "timestamp": 1766181600000,
+      "status": "resolved",
+      "description": "Recurring cyclist conflicts resolved after temporary bollard placement",
+      "reviewed_at": 1766268000000,
+      "response_time": 5,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400",
+        "metadataStripped": true
+      },
+      "hasMultipleMedia": true
+    }
+  ]
+}

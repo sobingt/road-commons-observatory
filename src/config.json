@@ -1,0 +1,104 @@
+{
+  "mapConfig": {
+    "center": [19.076, 72.8777],
+    "initialZoom": 12,
+    "minZoom": 8,
+    "maxZoom": 18,
+    "clusterRadiusPixels": 50,
+    "locationName": "Mumbai"
+  },
+  "timeWindows": {
+    "24h": {
+      "ms": 86400000,
+      "label": "24h"
+    },
+    "7d": {
+      "ms": 604800000,
+      "label": "7d"
+    },
+    "30d": {
+      "ms": 2592000000,
+      "label": "30d"
+    },
+    "persistent": {
+      "ms": null,
+      "label": "All"
+    }
+  },
+  "observationTypes": {
+    "violation": {
+      "label": "Violation",
+      "icon": "AlertCircle"
+    },
+    "risk": {
+      "label": "Risk Behavior",
+      "icon": "Eye"
+    },
+    "infrastructure": {
+      "label": "Infrastructure",
+      "icon": "Construction"
+    }
+  },
+  "statusExplanations": {
+    "resolved": "Marked resolved following infrastructure adjustment in this area.",
+    "acknowledged": "Acknowledged and under continued monitoring by traffic management.",
+    "pending": "Currently in institutional review queue.",
+    "dismissed": "Reviewed and determined non-actionable based on pattern analysis.",
+    "under_review": "Under evaluation by municipal traffic authority."
+  },
+  "outcomeDetails": {
+    "resolved": {
+      "change": "Road marking restoration",
+      "authority": "Municipal roads division"
+    },
+    "acknowledged": {
+      "change": "Monitoring protocol active",
+      "authority": "Traffic management cell"
+    },
+    "dismissed": {
+      "change": "Pattern analysis determined no systemic intervention required at this time.",
+      "authority": null
+    }
+  },
+  "theme": {
+    "colors": {
+      "black": "#000000",
+      "white": "#FFFFFF",
+      "gray": {
+        "dark": "#333333",
+        "medium": "#666666",
+        "light": "#999999",
+        "lighter": "#CCCCCC",
+        "lightest": "#E0E0E0",
+        "background": "#F5F5F5",
+        "backgroundAlt": "#FAFAFA"
+      }
+    },
+    "typography": {
+      "sizes": {
+        "xlarge": "1.5rem",
+        "large": "1.1rem",
+        "base": "0.9rem",
+        "small": "0.75rem",
+        "xsmall": "0.7rem",
+        "xxsmall": "0.65rem",
+        "tiny": "0.6rem"
+      },
+      "weights": {
+        "light": "300",
+        "normal": "400",
+        "medium": "500",
+        "semibold": "600",
+        "bold": "700"
+      }
+    },
+    "spacing": {
+      "xs": "0.25rem",
+      "sm": "0.5rem",
+      "md": "0.75rem",
+      "lg": "1rem",
+      "xl": "1.5rem",
+      "xxl": "2rem"
+    }
+  }
+}
